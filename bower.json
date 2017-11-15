@@ -1,6 +1,6 @@
 {
-  "name": "ymca-event",
-  "description": "A simple event template for use with YMCA",
+  "name": "LNDR text template",
+  "description": "A simple event template for use with LNDR text template",
   "main": "index.html",
   "authors": [
     "Igor Putina"
